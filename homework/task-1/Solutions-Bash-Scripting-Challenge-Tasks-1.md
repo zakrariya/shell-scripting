@@ -125,6 +125,8 @@ Quoted `"${fruits[@]}"` expands every array item separately and safely.
 | `[@]`    | Select all array elements     |
 | `" "`    | Preserve each element exactly |
 
+[More Details Click Here in roman Urdu](./md/Bash-Array-At-Symbol-Roman-Urdu-Study-Notes.md)
+
 [More Details Click Here](./md/Bash-Array-At-Symbol-Study-Notes.md)
 
 ### Increase the item number
@@ -666,6 +668,10 @@ set -e
 This asks Bash to exit after many unhandled command failures.
 
 It is not a replacement for clear error handling.
+
+['set -e' more information click here roman Urdu](./md/Shell_Scripting_Set_E_Roman_Urdu.md)
+
+['set -e' more information click here](./md/Shell_Scripting_Set_E_Study_Notes.md)
 
 ### Make directory creation repeatable
 
